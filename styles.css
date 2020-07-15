@@ -1,0 +1,101 @@
+body, html {
+    height: 100%;
+    overflow: hidden;
+}
+
+
+.besty {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+
+
+}
+
+.du {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.vid {
+    text-align: center;
+}
+
+
+a {
+    background-color: red;
+    color: white;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+
+.lol {
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+
+
+
+
+a:hover {
+    background-color: orange;
+}
+
+a:active {
+    background-color: black;
+}
+
+
+
+.why {
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+
+.df {
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+.vidoas {
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+
+
+
+
+
+
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+    background-color: RoyalBlue;
+}
